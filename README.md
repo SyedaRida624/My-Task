@@ -16,7 +16,13 @@
 - Delete tasks
 
 ---
+##  How to Use
 
+- Tap the **"+" button** to add a new task
+- **Tap on a task card** to open it in edit mode and **update the task**
+-   Tap delete to remove a task
+
+---
 ##  Screenshots
 
 <img width="258" height="561" alt="screen 1" src="https://github.com/user-attachments/assets/30343c30-461c-4d58-be12-2721e69eb6ec" />
